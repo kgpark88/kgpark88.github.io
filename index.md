@@ -1,6 +1,5 @@
-방문을 완영합니다.
-Edit the `index.md` file to change this content. 
-All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). 
+# 방문을 완영합니다.
+- [Markdown 사용법](https://guides.github.com/features/mastering-markdown/). 
 
 ![Image of fast.ai logo](images/logo.png)
 
